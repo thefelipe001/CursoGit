@@ -32,4 +32,13 @@ como agregar todo los archivo
 git add .
 como hacer un agregar y un commit al mismo tiempo
 git commit -am "Parrafo y tamaño de fuente"
+Para modificar una descripcion en un commit 
+git commit --amend
+luego ultilizar :i
+
+para subir un repository existen
+git remote add origin https://github.com/thefelipe001/CursoGit.git
+git push -u origin master
+
+
 
