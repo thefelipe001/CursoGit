@@ -44,6 +44,9 @@ luego ultilizar :i
 para subir un repository existen
 git remote add origin https://github.com/thefelipe001/CursoGit.git
 git push -u origin master
+como actualizar un documento
+git push
+
 
 >>>>>>> b16d0c5445cb08dc3ad3c24d5950d62b9873d804
 
