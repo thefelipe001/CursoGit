@@ -1,0 +1,39 @@
+user=@thefelipe001
+password-git=felipe20187235
+email=elfelipe_lugo@hotmail.com
+contraseña=Diosesamor12
+
+para comenzar un proyecto 
+git init
+para agregar todo en git
+git add .
+para agregar solo 1 en especifico
+git add nombre_del_Archivo
+para trasladar un Archivo a otro lugar es decir el repaldo
+git commit 
+Para ver el estado de los Archivo
+git status -s
+
+documentacion de git
+https://git-scm.com/docs/git#_git_commands
+
+Como hacer una Copia de repaldo
+git commit -m "Comienzo del proyecto"
+
+Listado de Toda la Copias Agregada y la descripcion
+git log  --oneline
+
+Para volver  a la ultima rama creada 
+git reset  --hard numero que me muestra en git log
+
+
+Como Subir un Repositorio en github
+como agregar todo los archivo
+git add .
+como hacer un agregar y un commit al mismo tiempo
+git commit -am "Parrafo y tamaño de fuente"
+
+para extraer datos modificado en el git de navegador
+git pull
+
+
